@@ -1,6 +1,6 @@
 # 📚 Library Management System
-A full-stack Library Management System designed to manage books, users, and library staff efficiently. This system provides authentication, CRUD operations for books and profiles, and secure access based on user roles.
-
+<br>A full-stack Library Management System designed to manage books, users, and library staff efficiently. This system provides authentication, CRUD operations for books and profiles, and secure access based on <br>user roles.
+<br>
 ## 🚀 Tech Stack
 - **Frontend**: EJS Templates, Bootstrap, JavaScript
 - **Backend**: Node.js, Express.js

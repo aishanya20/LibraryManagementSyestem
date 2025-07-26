@@ -20,9 +20,9 @@
 1. **Clone the repository**:
  https://github.com/aishanya20/LibraryManagementSyestem.git
  cd library-management-system<br>
-2. <b>Install dependencies:**</b><br>
-npm install
-3.**Configure environment variables**<br>
+2. <b>Install dependencies:</b><br>
+npm install<br>
+3. **Configure environment variables**<br>
    Create a .env file in the root with:<br>
    DB_URI=mongodb+srv://aashh297:0BsTdDjn2xmtStB8@blog.1d67mvl.mongodb.net/blog<br>
    SECRET_KEY=mySuperSecretKey123<br>

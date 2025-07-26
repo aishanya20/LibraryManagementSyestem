@@ -20,7 +20,7 @@
 1. **Clone the repository**:
  https://github.com/aishanya20/LibraryManagementSyestem.git
  cd library-management-system<br>
-2. <b>Install dependencies:**<b><br>
+2. <b>Install dependencies:**</b><br>
 npm install
 3.**Configure environment variables**<br>
    Create a .env file in the root with:<br>

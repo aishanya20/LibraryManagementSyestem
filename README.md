@@ -19,20 +19,20 @@
 ## 🛠️ Setup Instructions
 1. **Clone the repository**:
  https://github.com/aishanya20/LibraryManagementSyestem.git
- cd library-management-system
-<br>2.**Install dependencies:**
+ cd library-management-system<br>
+2.**Install dependencies:**<br>
 npm install
-3.**Configure environment variables**
-   Create a .env file in the root with:
-   DB_URI=mongodb+srv://aashh297:0BsTdDjn2xmtStB8@blog.1d67mvl.mongodb.net/blog
-   SECRET_KEY=mySuperSecretKey123
-4.**Create uploads folder**
-   This folder is used to store uploaded images of book covers. It should be created and used to upload the book cover in the project.
-   mkdir uploads
-5.**Start the application**
-   npm run dev
-6.**Visit in browser**
-   http://localhost:3000
+3.**Configure environment variables**<br>
+   Create a .env file in the root with:<br>
+   DB_URI=mongodb+srv://aashh297:0BsTdDjn2xmtStB8@blog.1d67mvl.mongodb.net/blog<br>
+   SECRET_KEY=mySuperSecretKey123<br>
+4.**Create uploads folder**<br>
+   This folder is used to store uploaded images of book covers. It should be created and used to upload the book cover in the project.<br>
+   mkdir uploads<br>
+5.**Start the application**<br>
+   npm run dev<br>
+6.**Visit in browser**<br>
+   http://localhost:3000<br>
 
 #📂 Project Structure
 

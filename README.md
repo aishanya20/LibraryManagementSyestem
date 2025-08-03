@@ -37,28 +37,26 @@ npm install<br>
 #📂 Project Structure
 
 ├── models/<br>
-│   ├── book.js
-│   └── profile.js
-|   └── user.js
-├── routes/
-│   └── routes.js
-|   └── userRoutes.js
-├── middleware/
-│   └── auth.js
-├── views/
-│   ├── Layout/
-│   │   ├── footer.ejs
-│   │   ├── header.ejs
-│   ├── add_book.ejs
-│   ├── chck.ejs
-│   ├── index.ejs
-│   ├── login.ejs
-│   ├── register.ejs
-│   ├── user_profile.ejs
-├── uploads
-│   
-│   
-├── main.js   
+│   ├── book.js<br>
+│   └── profile.js<br>
+|   └── user.js<br>
+├── routes/<br>
+│   └── routes.js<br>
+|   └── userRoutes.js<br>
+├── middleware/<br>
+│   └── auth.js<br>
+├── views/<br>
+│   ├── Layout/<br>
+│   │   ├── footer.ejs<br>
+│   │   ├── header.ejs<br>
+│   ├── add_book.ejs<br>
+│   ├── chck.ejs<br>
+│   ├── index.ejs<br>
+│   ├── login.ejs<br>
+│   ├── register.ejs<br>
+│   ├── user_profile.ejs<br>
+├── uploads<br>   
+├── main.js   <br>
 
 👩‍💻 Author
 Your Name – @aishanya20

@@ -24,8 +24,8 @@
 npm install<br>
 3. **Configure environment variables**<br>
    Create a .env file in the root with:<br>
-   DB_URI=mongodb+srv://aashh297:0BsTdDjn2xmtStB8@blog.1d67mvl.mongodb.net/blog<br>
-   SECRET_KEY=mySuperSecretKey123<br>
+   DB_URI<br>
+   SECRET_KEY<br>
 4.**Create uploads folder**<br>
    This folder is used to store uploaded images of book covers. It should be created and used to upload the book cover in the project.<br>
    mkdir uploads<br>

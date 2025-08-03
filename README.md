@@ -36,7 +36,7 @@ npm install<br>
 
 #📂 Project Structure
 
-├── models/
+├── models/<br>
 │   ├── book.js
 │   └── profile.js
 |   └── user.js
